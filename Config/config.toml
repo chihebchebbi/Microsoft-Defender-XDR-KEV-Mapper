@@ -1,0 +1,3 @@
+EntraID_Tenant = "EntraID_TenantID_Here"
+EntraID_ClientID = "EntraID_ClientID_Here"
+EntraID_ClientSecret = "EntraID_ClientSecret_Here" 
